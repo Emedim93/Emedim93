@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Backend Tech Stack" width="300"/>
 
 ### **Other Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" width="300"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" width="300"/>
 
 
 
