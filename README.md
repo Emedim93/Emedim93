@@ -28,10 +28,6 @@
 🎸 **Music** | ⚽ **Football** | 🎮 **Gaming**  
 
 📫 **Let's connect!**  
-💼 GitHub: [EliasAraneda](https://github.com/EliasAraneda)  
-💼 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+💼 GitHub: [EliasAraneda](https://github.com/Emedim93)  
+💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/elias-araneda-b53a29207/)  
 
----
-
-## 🔥 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasAraneda&show_icons=true&theme=radical)  
