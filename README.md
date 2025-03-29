@@ -17,15 +17,15 @@
 ---
 
 ## 🛠 **Tech Stack**  
-###
- **Frontend Development** 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" alt="Frontend Tech Stack" width="300"/>  
-###
- **Backend Development**  
+
+### **Frontend Development**  
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,tailwind" alt="Frontend Tech Stack" width="350"/>
+
+### **Backend Development**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Backend Tech Stack" width="300"/>
-###
- **Other Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" alt="Tools" width="300"/>
+
+### **Other Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" width="300"/>
 
 
 
